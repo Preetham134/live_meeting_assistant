@@ -1,4 +1,4 @@
-# TwinMind Live Suggestions Assignment
+# Live Meeting Assistant
 
 A browser-based live meeting copilot that listens to microphone audio, transcribes the conversation in chunks, and surfaces timely AI suggestions while the conversation is happening. Clicking any suggestion opens a concise, context-aware explanation in the chat panel.
 
